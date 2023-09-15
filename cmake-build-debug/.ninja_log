@@ -1,0 +1,7 @@
+# ninja log v5
+0	179	7164817140802239	build.ninja	3f36de1b4cb6efec
+4	282	7164804994605504	c_ReadFile.exe	3a2c5bc53bdecd4c
+3	147	7164801829313294	CMakeFiles/c_ReadFile.dir/01_read_file.c.obj	6dfba12e4ec59294
+4	134	7164802089577080	CMakeFiles/c_ReadFile.dir/02_sequential_file_access.c.obj	ac60871156bf09c3
+0	150	7164802659373809	CMakeFiles/c_ReadFile.dir/03_selective_file_access.c.obj	1615018d98e8cce1
+0	126	7164803522139416	CMakeFiles/c_ReadFile.dir/04_MSG4.c.obj	7698dd29f67c1c2

@@ -1,0 +1,3 @@
+C:/Users/pisto/CLionProjects/c_ReadFile/cmake-build-debug/CMakeFiles/c_ReadFile.dir
+C:/Users/pisto/CLionProjects/c_ReadFile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pisto/CLionProjects/c_ReadFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
